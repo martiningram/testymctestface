@@ -3,6 +3,8 @@ title: "a document"
 output: html_document
 ---
 
+HELLO.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
